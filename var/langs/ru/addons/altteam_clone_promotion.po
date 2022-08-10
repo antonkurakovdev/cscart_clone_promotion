@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "Addons::name::altteam_clone_promotion"
 msgid "[Alt-Team] Clone promotion"
-msgstr "[Alt-Team] Изменения в дизайне"
+msgstr "[Alt-Team] Клонирование промо-акции"
 
 msgctxt "Addons::description::altteam_clone_promotion"
 msgid "Allows the Admin to clone promotions with all info and conditions. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"

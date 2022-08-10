@@ -16,7 +16,7 @@ if (!defined('BOOTSTRAP')) { die('Access denied'); }
 
 // promotion data
 if ($mode == 'update') {
-	Registry::set('navigation.dynamic.actions.clone_promotion', array (
+	Registry::set('navigation.dynamic.actions.clone', array (
 		'href' => "promotions.clone?promotion_id=$_REQUEST[promotion_id]",
 		'meta' => '',
 		'target' => '',
