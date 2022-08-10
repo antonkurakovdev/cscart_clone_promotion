@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::altteam_clone_promotion"
+msgid "[Alt-Team] Clone promotion"
+msgstr "[Alt-Team] Clone promotion"
+
+msgctxt "Addons::description::altteam_clone_promotion"
+msgid "Allows the Admin to clone promotions with all info and conditions. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+msgstr "Allows the Admin to clone promotions with all info and conditions. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+
+msgctxt "SettingsOptions::altteam_clone_promotion::license_number"
+msgid "License number"
+msgstr "License number"
+
+msgctxt "Languages::altteam_clone_promotion.promotion_cloned"
+msgid "The promotion has been cloned"
+msgstr "The promotion has been cloned"

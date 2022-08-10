@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.11.2/addons/altteam_clone_promotion.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-12-02 13:45\n"
+
+msgctxt "Addons::name::altteam_clone_promotion"
+msgid "[Alt-Team] Clone promotion"
+msgstr "[Alt-Team] Изменения в дизайне"
+
+msgctxt "Addons::description::altteam_clone_promotion"
+msgid "Allows the Admin to clone promotions with all info and conditions. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+msgstr "Даёт возможность администратору клонировать существующие промо-акции со всеми деталями и условиями. Разработано <a target="_blank" href="https://alt-team.ru/">Alt-team</a>"
+
+msgctxt "SettingsOptions::altteam_clone_promotion::license_number"
+msgid "License number"
+msgstr "Номер лицензии"
+
+msgctxt "Languages::altteam_clone_promotion.promotion_cloned"
+msgid "The promotion has been cloned"
+msgstr "Промоакция склонирована"
+
